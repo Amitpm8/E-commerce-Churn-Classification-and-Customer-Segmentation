@@ -94,7 +94,7 @@ The dataset contains 10,000+ records with the following features:
 Clone the repository and install the dependencies:
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ecommerce-churn-classification.git
+git clone https://github.com/Amitpm8/ecommerce-churn-classification.git
 
 # Navigate to the project directory
 cd ecommerce-churn-classification
