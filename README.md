@@ -123,8 +123,8 @@ Open the `ecommerce_churn_classification.ipynb` file in Jupyter Notebook or VS C
 
 ## **Contact**
 If you have any questions, feel free to reach out:
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Email:** your-email@example.com
+- **GitHub:** [Amitpm8](https://github.com/Amitpm8)
+- **Email:** amitmadakatti@outlook.com
 
 ---
 
